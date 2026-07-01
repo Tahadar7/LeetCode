@@ -5,8 +5,8 @@ class Solution:
         
         cnt = 0
         for each in details:
-            age = each[11] + each[12]
-            if age > '60':
+            age = int(each[11] + each[12])
+            if age > 60:
                 cnt +=1
         return cnt
         
