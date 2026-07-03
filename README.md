@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tahadar7/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Tahadar7/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tahadar7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0283-move-zeroes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1550-three-consecutive-odds](https://github.com/Tahadar7/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tahadar7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tahadar7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
