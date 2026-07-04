@@ -4,11 +4,12 @@ class Solution:
         if x < 0 or (x != 0 and x % 10 == 0):
             return False
 
-        reverse_half = 0
+        reverse_half = 0    # check half reverse
         while x > reverse_half:
             reverse_half = reverse_half * 10 + x % 10
             x //= 10
         
+        # ignore middle digit for even case
         return x == reverse_half or x == reverse_half // 10
 
         
