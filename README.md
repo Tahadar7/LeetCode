@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tahadar7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0520-detect-capital](https://github.com/Tahadar7/LeetCode/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
