@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tahadar7/LeetCode/tree/master/0009-palindrome-number) |
+| [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tahadar7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
