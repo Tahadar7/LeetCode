@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tahadar7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/Tahadar7/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
