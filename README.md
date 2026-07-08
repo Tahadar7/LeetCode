@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tahadar7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0520-detect-capital](https://github.com/Tahadar7/LeetCode/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Tahadar7/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Tahadar7/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1683-invalid-tweets](https://github.com/Tahadar7/LeetCode/tree/master/1683-invalid-tweets) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Tahadar7/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
