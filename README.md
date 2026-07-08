@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Tahadar7/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
