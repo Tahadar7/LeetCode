@@ -103,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Tahadar7/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1683-invalid-tweets](https://github.com/Tahadar7/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
