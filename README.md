@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0283-move-zeroes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tahadar7/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tahadar7/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tahadar7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Tahadar7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
