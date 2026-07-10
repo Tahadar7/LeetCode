@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tahadar7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Tahadar7/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
 | [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tahadar7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tahadar7/LeetCode/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Tahadar7/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
