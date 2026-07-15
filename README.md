@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
 | [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2544-alternating-digit-sum](https://github.com/Tahadar7/LeetCode/tree/master/2544-alternating-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
