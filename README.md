@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tahadar7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0520-detect-capital](https://github.com/Tahadar7/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Tahadar7/LeetCode/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tahadar7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tahadar7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Tahadar7/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tahadar7/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tahadar7/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tahadar7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1952-three-divisors](https://github.com/Tahadar7/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/Tahadar7/LeetCode/tree/master/2544-alternating-digit-sum) |
