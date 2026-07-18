@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tahadar7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Tahadar7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Tahadar7/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tahadar7/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tahadar7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tahadar7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tahadar7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tahadar7/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Tahadar7/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
