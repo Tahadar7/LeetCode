@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tahadar7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tahadar7/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tahadar7/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Tahadar7/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Tahadar7/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Tahadar7/LeetCode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tahadar7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tahadar7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Tahadar7/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
