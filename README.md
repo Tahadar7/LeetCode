@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tahadar7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Tahadar7/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Tahadar7/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Tahadar7/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Math
 |  |
 | ------- |
