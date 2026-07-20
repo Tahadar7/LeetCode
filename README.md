@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tahadar7/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tahadar7/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Tahadar7/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Tahadar7/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tahadar7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tahadar7/LeetCode/tree/master/0035-search-insert-position) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Database
 |  |
