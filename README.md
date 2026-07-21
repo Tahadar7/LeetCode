@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tahadar7/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tahadar7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tahadar7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Tahadar7/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Tahadar7/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tahadar7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tahadar7/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Tahadar7/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Tahadar7/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
 |  |
