@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tahadar7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tahadar7/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tahadar7/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tahadar7/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tahadar7/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
 ## String
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tahadar7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Tahadar7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tahadar7/LeetCode/tree/master/0035-search-insert-position) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tahadar7/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Database
 |  |
