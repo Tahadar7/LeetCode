@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tahadar7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tahadar7/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tahadar7/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tahadar7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tahadar7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tahadar7/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2418-sort-the-people](https://github.com/Tahadar7/LeetCode/tree/master/2418-sort-the-people) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tahadar7/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -178,4 +181,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tahadar7/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tahadar7/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
